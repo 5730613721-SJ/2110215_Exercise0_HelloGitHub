@@ -23,6 +23,7 @@ public class Hello {
 		
 		boolean isChanged = true;
 		int temp;
+		
 		while(isChanged){
 			isChanged = false;
 			
